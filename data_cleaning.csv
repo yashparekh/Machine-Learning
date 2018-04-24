@@ -1,0 +1,13 @@
+emp_id,gender,age,salary,has_car
+1,Male,25,86177,1
+2,Male,27,67961,0
+3,Female,,88344,0
+4,Male,30,86222,1
+5,Female,24,105669,0
+6,Female,36,,1
+7,Male,48,68091,0
+8,Female,27,65480,1
+9,Female,25,79193,1
+10,Male,31,104414,0
+9,Other,25,79193,1
+10,Other,31,104414,0
